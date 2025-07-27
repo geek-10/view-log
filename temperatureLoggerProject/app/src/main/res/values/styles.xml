@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="update_temp">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#4143E2</item>
+        <item name="android:shadowColor">#40000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">8</item>
+    </style>
+
+    <style name="minute">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:shadowColor">#40000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">8</item>
+    </style>
+
+    <style name="temperature">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#4143E2</item>
+        <item name="android:shadowColor">#40000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">8</item>
+    </style>
+
+    <style name="celsius">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:shadowColor">#40000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">8</item>
+    </style>
+
+    <style name="last_update">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#4143E2</item>
+        <item name="android:shadowColor">#40000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">8</item>
+    </style>
+
+    <style name="outputTemperature">
+        <item name="android:letterSpacing">0.14</item>
+    </style>
+
+    <style name="temperature_logger">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">#4143E2</item>
+        <item name="android:shadowColor">#40000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">8</item>
+    </style>
+</resources>

@@ -1,0 +1,22 @@
+# Android
+temperatureLoggerProject/*.iml
+temperatureLoggerProject/.gradle
+temperatureLoggerProject/local.properties
+temperatureLoggerProject/.idea/
+temperatureLoggerProject/.DS_Store
+temperatureLoggerProject/build
+temperatureLoggerProject/captures
+temperatureLoggerProject/.externalNativeBuild
+temperatureLoggerProject/.cxx
+temperatureLoggerProject/app/google-service.json
+
+# Python
+raspberry_pi_configuration_files/__pycache__/
+raspberry_pi_configuration_files/*.pyc
+raspberry_pi_configuration_files/*.pyo
+raspberry_pi_configuration_files/*.pyd
+raspberry_pi_configuration_files/*.env
+raspberry_pi_configuration_files/*.json
+raspberry_pi_configuration_files/serviceAccountKey.json
+raspberry_pi_configuration_files/.env
+raspberry_pi_configuration_files/venv/

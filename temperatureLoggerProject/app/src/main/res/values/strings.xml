@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">
+        View Log
+    </string>
+
+    <string name="update_temp">
+        Update Temperature
+    </string>
+
+    <string name="minute">
+        minute
+    </string>
+
+    <string name="temperature">
+        Temperature
+    </string>
+
+    <string name="celsius">
+        Celsius
+    </string>
+
+    <string name="last_update">
+        Last Update Time
+    </string>
+
+    <string name="temperature_logger">
+        Temperature\nLogger
+    </string>
+</resources>
