@@ -8,7 +8,7 @@ temperatureLoggerProject/build
 temperatureLoggerProject/captures
 temperatureLoggerProject/.externalNativeBuild
 temperatureLoggerProject/.cxx
-temperatureLoggerProject/app/google-service.json
+temperatureLoggerProject/app/google-services.json
 
 # Python
 raspberry_pi_configuration_files/__pycache__/
